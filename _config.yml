@@ -1,0 +1,28 @@
+name: You Say Tomato
+favicon: null
+layout_spectrum: 0.2949165322352201
+typography_spectrum: 0.9330231158528477
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.04551293537952006
+  lightness: 0.712885354179889
+  saturation: 0.38425094657577574
+  rhythmicContrast: 0.5410199798643589
+purpose: []
